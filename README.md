@@ -1,6 +1,6 @@
 # weather-app:
 
-You can see the website here: 
+You can see the website here:  https://armanalu.github.io/weather-app/
 
 A basic client-side weather app example.
 Uses the Open Weather Map API to request weather data.
